@@ -1,0 +1,32 @@
+1. corona update api
+https://api.nepalitime.com.au/tools/coronaScraper.php
+
+2. calendar events
+https://api.nepalitime.com.au/main.php?action=getAllCalendarEvents
+
+3. calendar saits
+https://api.nepalitime.com.au/main.php?action=getCalendarSaits
+
+4. calendar sait dates
+https://api.nepalitime.com.au/main.php?action=getCalendarSaitDates&&year=2077
+
+5. getAllVeg Kalimati Vegetable Market Data
+https://api.nepalitime.com.au/tools/vegMarketScraper.php?action=get
+
+6. get all news for Android app
+https://api.nepalitime.com.au/main.php?action=getAllNewsAndroid
+
+7. Calendar Saits
+https://api.nepalitime.com.au/main.php?action=getCalendarSaits
+
+8. Videos Category
+https://api.nepalitime.com.au/main.php?action=getVideosCategory
+
+9. Get All Videos
+https://api.nepalitime.com.au/main.php?action=getAllPopularVideosAll
+
+9. Get All Forex NRB
+https://api.nepalitime.com.au/main.php?action=getAllForex
+
+19. Get All NEPSE Data (Floor Sheet)
+https://api.nepalitime.com.au/main.php?action=getAllNepse
